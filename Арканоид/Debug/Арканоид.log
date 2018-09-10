@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Арканоид.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  main.c
+c:\users\andrey\documents\visual studio 2017\projects\arcanoid\арканоид\main.c(75): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\andrey\documents\visual studio 2017\projects\arcanoid\арканоид\main.c(185): warning C4018: >: несоответствие типов со знаком и без знака
+  Арканоид.vcxproj -> C:\Users\Andrey\Documents\Visual Studio 2017\Projects\Arcanoid\Debug\Arcanoid.exe
+  Арканоид.vcxproj -> C:\Users\Andrey\Documents\Visual Studio 2017\Projects\Arcanoid\Debug\Arcanoid.pdb (Partial PDB)
